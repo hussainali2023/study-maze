@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import styles from '../../styles/Button.module.css'
-import coventry from '../../../public/assets/collegeLogo/Coventry-University.webp'
+import coventry from '../../../public/Assets/collegeLogo/Coventry-University.webp'
 import middlesex from '../../../public/assets/collegeLogo/Middlesex-University-London (1).webp'
 import middlesex2 from '../../../public/assets/collegeLogo/London-Metropolitan-University.webp';
 import coventryCollege from '../../../public/assets/collegeLogo/image/coventry.webp'

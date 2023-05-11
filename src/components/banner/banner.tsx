@@ -1,5 +1,5 @@
 import styles from '../../styles/Banner.module.css'
-import banner from '../../../public/assets/banner/Frame.png'
+import banner from '../../../public/Assets/banner/Frame.png'
 import Image from 'next/image';
 import { Button } from '../buttonGroup/button';
 const Banner = () => {

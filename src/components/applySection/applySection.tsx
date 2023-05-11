@@ -1,6 +1,6 @@
-import student from '../../../public/assets/apply/Student.webp';
-import partner from '../../../public/assets/apply/School.webp';
-import recruit from '../../../public/assets/apply/RP.webp';
+import student from '../../../public/Assets/apply/Student.webp';
+import partner from '../../../public/Assets/apply/School.webp';
+import recruit from '../../../public/Assets/apply/RP.webp';
 import Image from 'next/image';
 import { Button } from '@/components/buttonGroup/button';
 const ApplySection = () => {
