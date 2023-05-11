@@ -1,11 +1,11 @@
 import Image from 'next/image';
 import styles from '../../styles/Button.module.css'
 import coventry from '../../../public/Assets/collegeLogo/Coventry-University.webp'
-import middlesex from '../../../public/assets/collegeLogo/Middlesex-University-London (1).webp'
-import middlesex2 from '../../../public/assets/collegeLogo/London-Metropolitan-University.webp';
-import coventryCollege from '../../../public/assets/collegeLogo/image/coventry.webp'
-import middle from '../../../public/assets/collegeLogo/image/Middlesex.webp'
-import london from '../../../public/assets/collegeLogo/image/london.webp'
+import middlesex from '../../../public/Assets/collegeLogo/Middlesex-University-London (1).webp'
+import middlesex2 from '../../../public/Assets/collegeLogo/London-Metropolitan-University.webp';
+import coventryCollege from '../../../public/Assets/collegeLogo/image/coventry.webp'
+import middle from '../../../public/Assets/collegeLogo/image/Middlesex.webp'
+import london from '../../../public/Assets/collegeLogo/image/london.webp'
 import { FaMapMarkerAlt } from "react-icons/fa";
 import { HiArrowRight } from 'react-icons/hi';
 const College = () => {

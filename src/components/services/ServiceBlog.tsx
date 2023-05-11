@@ -1,7 +1,7 @@
 import Image from "next/image";
-import img1 from '../../../public/assets/blogImage/study.png'
-import img2 from '../../../public/assets/blogImage/tution.png'
-import img3 from '../../../public/assets/blogImage/study-australia.png'
+import img1 from '../../../public/Assets/blogImage/study.png'
+import img2 from '../../../public/Assets/blogImage/tution.png'
+import img3 from '../../../public/Assets/blogImage/study-australia.png'
 import { HiArrowRight } from "react-icons/hi";
 import styles from '../../styles/Button.module.css'
 const ServiceBlog = () => {

@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import logo from '../../../public/assets/graduation-hat.png';
+import logo from '../../../public/Assets/graduation-hat.png';
 import toast from 'react-hot-toast';
 import Meta from '@/components/head/meta';
 const Apply = () => {

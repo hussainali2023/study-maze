@@ -67,7 +67,7 @@
         "tuitionFee": 15000,
         "programme": "B.Sc",
         "photo": {
-            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/Assets/images/NUIM_Sth_Campus.jpg",
             "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
         }
     },
@@ -103,7 +103,7 @@
         "tuitionFee": 15000,
         "programme": "B.Sc",
         "photo": {
-            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/Assets/images/NUIM_Sth_Campus.jpg",
             "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
         }
     },
@@ -139,7 +139,7 @@
         "tuitionFee": 15000,
         "programme": "B.Sc",
         "photo": {
-            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/Assets/images/NUIM_Sth_Campus.jpg",
             "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
         }
     },
@@ -229,7 +229,7 @@
         "tuitionFee": 14000,
         "programme": "BCL",
         "photo": {
-            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/Assets/images/NUIM_Sth_Campus.jpg",
             "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
         }
     },
@@ -283,7 +283,7 @@
         "tuitionFee": 13500,
         "programme": "BSocSc",
         "photo": {
-            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/Assets/images/NUIM_Sth_Campus.jpg",
             "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
         }
     },

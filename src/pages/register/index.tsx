@@ -1,6 +1,6 @@
 import Image from 'next/image';
-import registerBanner from '../../../public/assets/registerBanner/register_banner.svg';
-import google from '../../../public/assets/logo/google.png';
+import registerBanner from '../../../public/Assets/registerBanner/register_banner.svg';
+import google from '../../../public/Assets/logo/google.png';
 import { FaUser, FaLock } from "react-icons/fa";
 import { HiMail } from "react-icons/hi";
 import Styles from '../../styles/Button.module.css'
