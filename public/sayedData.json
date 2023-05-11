@@ -1,0 +1,560 @@
+[
+    {
+        "studyName": "Agriculture and Environmental Management",
+        "category": "Agriculture & Forestry",
+        "description": "This Agriculture and Environmental Management programme from the Atlantic Technological University provides you with the range of specialised skills ideal for employment in the agriculture and environmental sectors. Strong emphasis is placed on sustainability in agriculture and the environment.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Atlantic Technological University",
+        "location": {
+            "country": "Ireland",
+            "state": "Galway"
+        },
+        "tuitionFee": 3316,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://www.oceanfm.ie/wp-content/uploads/2022/02/IT-Sligo.jpg",
+            "logo": "https://studentsurvey.ie/sites/default/files/2022-10/ATU%20Logo.png"
+        }
+    },
+    {
+        "studyName": "Agricultural Engineering",
+        "category": "Agriculture & Forestry",
+        "description": "This Agricultural Engineering degree from the Atlantic Technological University has been designed to deliver high quality agricultural engineering graduates to local and national agricultural and agri-food industries, in order to meet this demand.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Atlantic Technological University",
+        "location": {
+            "country": "Ireland",
+            "state": "Galway"
+        },
+        "tuitionFee": 3316,
+        "programme": "B.Eng",
+        "photo": {
+            "background": "https://www.oceanfm.ie/wp-content/uploads/2022/02/IT-Sligo.jpg",
+            "logo": "https://studentsurvey.ie/sites/default/files/2022-10/ATU%20Logo.png"
+        }
+    },
+    {
+        "studyName": "Animal Science - Equine (Hons)",
+        "category": "Applied Sciences & Professions",
+        "description": "The Bachelor of Animal Science - Equine (Hons) programme from University College Dublin focuses on the applied sciences that underpin animal and veterinary biosciences, with emphasis on the horse.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "University College Dublin",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 27720,
+        "programme": "BAgrSc",
+        "photo": {
+            "background": "https://gradireland.com/static/517e32731f87dfaf8cc99554607bde6d/612e9/UCD%20campus%20shot_0.jpg",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Universitycollegedublinlogo.png"
+        }
+    },
+    {
+        "studyName": "Product Design (Marketing and Innovation)",
+        "category": "Arts, Design & Architecture",
+        "description": "The Product Design (Marketing and Innovation) program at the Maynooth University has a highly practical course, with an emphasis on project-based learning, workshops, laboratory sessions and group work.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Maynooth University",
+        "location": {
+            "country": "Ireland",
+            "state": "Maynooth"
+        },
+        "tuitionFee": 15000,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
+        }
+    },
+    {
+        "studyName": "Marketing, Innovation and Technology",
+        "category": "Business & Management",
+        "description": "This BSc in Marketing, Innovation and Technology course from Dublin City University prepares you with a foundation in marketing and insight into cutting edge science and technology, in answer to the growing demand for expertise in all these areas.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Dublin City University",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 14500,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://accessable.s3.eu-west-2.amazonaws.com/production/uploads/organisation/hero_image/76/resize_DCU_main_image_3.jpg",
+            "logo": "https://open.ieee.org/wp-content/uploads/Dublin-City-University.png"
+        }
+    },
+    {
+        "studyName": "Computational Thinking",
+        "category": "Computer Science & IT",
+        "description": "Study Computer Science, Mathematics and Philosophy in an accelerated three-year Computational Thinking degree from Maynooth University. Learn how to combine human creativity with the power of computers to solve problems.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Maynooth University",
+        "location": {
+            "country": "Ireland",
+            "state": "Maynooth"
+        },
+        "tuitionFee": 15000,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
+        }
+    },
+    {
+        "studyName": "Psychology and Disruptive Technologies",
+        "category": "Education & Training",
+        "description": "The Psychology and Disruptive Technologies programme of the Dublin City University offers the unique opportunity to study psychology and understand human behaviour in combination with disruptive technologies that are fundamentally transforming lives and driving behavioural and societal change, sometimes raising challenges.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Dublin City University",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 15500,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://accessable.s3.eu-west-2.amazonaws.com/production/uploads/organisation/hero_image/76/resize_DCU_main_image_3.jpg",
+            "logo": "https://open.ieee.org/wp-content/uploads/Dublin-City-University.png"
+        }
+    },
+    {
+        "studyName": "Electronic Engineering",
+        "category": "Engineering & Technology",
+        "description": "The Electronic Engineering degree offered by the Maynooth University is an internationally recognized degree.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Maynooth University",
+        "location": {
+            "country": "Ireland",
+            "state": "Maynooth"
+        },
+        "tuitionFee": 15000,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
+        }
+    },
+    {
+        "studyName": "Environmental Science and Technology",
+        "category": "Environmental Studies & Earth Sciences",
+        "description": "This Environmental Science and Technology degree from Dublin City University explores the environment, the technologies used for its analysis, and how it is impacted by our activities from a scientific perspective.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Dublin City University",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 14500,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://accessable.s3.eu-west-2.amazonaws.com/production/uploads/organisation/hero_image/76/resize_DCU_main_image_3.jpg",
+            "logo": "https://open.ieee.org/wp-content/uploads/Dublin-City-University.png"
+        }
+    },
+    {
+        "studyName": "Athletic Therapy and Training",
+        "category": "Hospitality, Leisure & Sports",
+        "description": "The Athletic Therapy and Training programme from Dublin City University will equip you with the medical knowledge, clinical abilities, problem-solving skills, confidence, and practical experience you need to become an ATT.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Dublin City University",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 18600,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://accessable.s3.eu-west-2.amazonaws.com/production/uploads/organisation/hero_image/76/resize_DCU_main_image_3.jpg",
+            "logo": "https://open.ieee.org/wp-content/uploads/Dublin-City-University.png"
+        }
+    },
+    {
+        "studyName": "Creative Writing",
+        "category": "Humanities",
+        "description": "Creative writing touches on all aspects of written communication, with particular emphasis on those that lie outside the purely academic and technical fields. Creative Writing at American College Dublin draws on the author’s imaginative capacity, stylistic felicity, and originality of composition, insight and expression. ",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "American College Dublin",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 9000,
+        "programme": "B.F.A",
+        "photo": {
+            "background": "https://www.smc.edu/student-support/academic-support/transfer-center/articulation-agreements/international-schools/images/american-college-dublin.jpg",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/American_College_Dublin_Crest.jpg"
+        }
+    },
+    {
+        "studyName": "Communication Studies",
+        "category": "Journalism & Media",
+        "description": "Understand the role communications play in our everyday lives, and their influence on people and society through the arts and media. In the Communication Studies degree from Dublin City University, you'll explore the subject through theory and practice and working both creatively and analytically. ",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Dublin City University",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 15500,
+        "programme": "B.A",
+        "photo": {
+            "background": "https://accessable.s3.eu-west-2.amazonaws.com/production/uploads/organisation/hero_image/76/resize_DCU_main_image_3.jpg",
+            "logo": "https://open.ieee.org/wp-content/uploads/Dublin-City-University.png"
+        }
+    },
+    {
+        "studyName": "BCL (Law and Arts)",
+        "category": "Law",
+        "description": "This law degree is accredited by the Honorable Society of King’s Inns. The BCL (Law and Arts) program from Maynooth University is a three-year degree in law combined with one other subject. ",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Maynooth University",
+        "location": {
+            "country": "Ireland",
+            "state": "Maynooth"
+        },
+        "tuitionFee": 14000,
+        "programme": "BCL",
+        "photo": {
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
+        }
+    },
+    {
+        "studyName": "Physics with Biomedical Sciences",
+        "category": "Medicine & Health",
+        "description": "This Physics with Biomedical Sciences degree from Dublin City University overlays the principles that underpin the chemical, biological and life sciences on a solid physics background, while exposing you to the most recent developments in the biomedical area.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Dublin City University",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 15500,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://accessable.s3.eu-west-2.amazonaws.com/production/uploads/organisation/hero_image/76/resize_DCU_main_image_3.jpg",
+            "logo": "https://open.ieee.org/wp-content/uploads/Dublin-City-University.png"
+        }
+    },
+    {
+        "studyName": "Biotechnology",
+        "category": "Natural Sciences & Mathematics",
+        "description": "The Biotechnology degree from Dublin City University will furnish you with the science and engineering fundamentals to succeed in the emerging technology-driven biotech industry.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Dublin City University",
+        "location": {
+            "country": "Ireland",
+            "state": "Dublin"
+        },
+        "tuitionFee": 15500,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://accessable.s3.eu-west-2.amazonaws.com/production/uploads/organisation/hero_image/76/resize_DCU_main_image_3.jpg",
+            "logo": "https://open.ieee.org/wp-content/uploads/Dublin-City-University.png"
+        }
+    },
+    {
+        "studyName": "Community and Youth Work",
+        "category": "Social Sciences",
+        "description": "This is a part-time, level 8 honours degree in Community and Youth Work at Maynooth University  - equivalent of 1.5 days per week tuition on campus plus summer schools; two periods of block fieldwork placement (dates set at commencement of programme).",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Maynooth University",
+        "location": {
+            "country": "Ireland",
+            "state": "Maynooth"
+        },
+        "tuitionFee": 13500,
+        "programme": "BSocSc",
+        "photo": {
+            "background": "https://www.maynoothuniversity.ie/sites/default/files/assets/images/NUIM_Sth_Campus.jpg",
+            "logo": "https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png"
+        }
+    },
+    {
+        "studyName": "Marine Biology (Honours)",
+        "category": "Agriculture & Forestry",
+        "description": "The Marine Biology (Honours) degree from Newcastle University provides you with a holistic understanding of human interaction with the marine environment.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Newcastle University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Newcastle upon Tyne"
+        },
+        "tuitionFee": 29834,
+        "programme": "B.Sc.",
+        "photo": {
+            "background": "https://www.ncl.ac.uk/media/wwwnclacuk/whoweare/images/hero-locations.jpg",
+            "logo": "https://1000logos.net/wp-content/uploads/2020/06/Newcastle-University-Logo.png"
+        }
+    },
+    {
+        "studyName": "Fashion Textiles (Hons)",
+        "category": "Applied Sciences & Professions",
+        "description": "The Fashion Textiles (Hons) programme at the University of the West of England (UWE Bristol) teaches you about all areas of fashion textiles, from the design and production of textiles through to the design and manufacture of fashion product.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "University of the West of England (UWE Bristol)",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Bristol"
+        },
+        "tuitionFee": 17234,
+        "programme": "B.A.",
+        "photo": {
+            "background": "https://info.uwe.ac.uk/news/uwenews/imagestore/4988.jpg",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/UWE_Bristol_logo.svg/2560px-UWE_Bristol_logo.svg.png"
+        }
+    },
+    {
+        "studyName": "Undergraduate Foundation Programme - Art and Design",
+        "category": "Arts, Design & Architecture",
+        "description": "This Undergraduate Foundation Programme - Art and Design programme from ONCAMPUS Reading is designed to prepare international students, who have completed senior secondary education, for entry to undergraduate studies at the University of Reading.",
+        "duration": 1,
+        "degree": "Pre-Bachelor",
+        "institute": "University of Reading",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Reading"
+        },
+        "tuitionFee": 21223,
+        "programme": "Pre-Bachelor",
+        "photo": {
+            "background": "https://www.reading.ac.uk/discover/-/media/discover/images/tiles/taster-tiles/ready-to-study/student-life/whiteknights-campus/aerial-hbs-edith-morley.jpg",
+            "logo": "https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/University-of-Reading-900x0.png"
+        }
+    },
+    {
+        "studyName": "(Hons) Project Management with Foundation Year",
+        "category": "Business & Management",
+        "description": "Are you thinking about a career in project management but want to build your academic skills ahead of your studies? Arden's dual accredited BSc (Hons) Project Management with Foundation Year degree will give you the extra support you need to complete your degree with confidence, and the skills to make an immediate impact on your company.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Arden University Online",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Coventry"
+        },
+        "tuitionFee": 7837,
+        "programme": "B.Sc.",
+        "photo": {
+            "background": "https://edumpus.com/getpublic/storage/cover_photo/1639456805_1.jpg",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/15864/logos/1651665433_arden-core-square_for-white-background.jpg"
+        }
+    },
+    {
+        "studyName": "Bioengineering (Hons)",
+        "category": "Computer Science & IT",
+        "description": "The Bioengineering (Hons) degree offered by Loughborough University draws from our expertise across several academic departments and will give you a thorough grounding in engineering systems and applications relevant to bioengineering.  ",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Loughborough University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Loughborough"
+        },
+        "tuitionFee": 29043,
+        "programme": "B.Eng.",
+        "photo": {
+            "background": "https://www.eduopinions.com/wp-content/uploads/2018/03/University-of-Loughborough-campus-610x363.jpg",
+            "logo": "https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2015/09/Tester-featured-image.jpg"
+        }
+    },
+    {
+        "studyName": "Speech and Language Therapy (Honours)",
+        "category": "Education & Training",
+        "description": "The Speech and Language Therapy (Honours) programme of Newcastle University uses innovative teaching, state-of-the-art facilities, and high levels of clinical work to prepare you for a career as a speech and language therapist.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Newcastle University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Newcastle upon Tyne"
+        },
+        "tuitionFee": 25776,
+        "programme": "B.Sc.",
+        "photo": {
+            "background": "https://www.ncl.ac.uk/media/wwwnclacuk/whoweare/images/hero-locations.jpg",
+            "logo": "https://1000logos.net/wp-content/uploads/2020/06/Newcastle-University-Logo.png"
+        }
+    },
+    {
+        "studyName": "Aeronautical Engineering (Hons)",
+        "category": "Engineering & Technology",
+        "description": "The Bioengineering (Hons) degree offered by Loughborough University draws from our expertise across several academic departments and will give you a thorough grounding in engineering systems and applications relevant to bioengineering.  ",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Loughborough University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Loughborough"
+        },
+        "tuitionFee": 29043,
+        "programme": "B.Eng.",
+        "photo": {
+            "background": "https://www.eduopinions.com/wp-content/uploads/2018/03/University-of-Loughborough-campus-610x363.jpg",
+            "logo": "https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2015/09/Tester-featured-image.jpg"
+        }
+    },
+    {
+        "studyName": "Urban Planning (Honours)",
+        "category": "Environmental Studies & Earth Sciences",
+        "description": "The accredited Urban Planning (Honours) degree from Newcastle University allows you to explore the forces that shape our cities and neighbourhoods and help lead the debate about their future.  ",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Newcastle University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Newcastle upon Tyne"
+        },
+        "tuitionFee": 25776,
+        "programme": "B.A.",
+        "photo": {
+            "background": "https://www.ncl.ac.uk/media/wwwnclacuk/whoweare/images/hero-locations.jpg",
+            "logo": "https://1000logos.net/wp-content/uploads/2020/06/Newcastle-University-Logo.png"
+        }
+    },
+    {
+        "studyName": "Physical Activity, Exercise and Health with Foundation Year (Hons)",
+        "category": "Hospitality, Leisure & Sports",
+        "description": "Transition into higher education and prepare for degree-level study with our Physical Activity, Exercise and Health with Foundation Year (Hons) program from Leeds Beckett University.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Leeds Beckett University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Leeds"
+        },
+        "tuitionFee": 15871,
+        "programme": "B.Sc.",
+        "photo": {
+            "background": "https://images.shiksha.com/mediadata/images/1538131314phpvtUQLu_g.jpg",
+            "logo": "https://www.leedsbeckett.ac.uk/-/media/images/news-items/september-2018/2018_lbu01_purple_png.png"
+        }
+    },
+    {
+        "studyName": "History (Honours)",
+        "category": "Humanities",
+        "description": "The History (Honours) programme of Newcastle University allows you to explore and analyse historical societies across a range of periods and regions.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Newcastle University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Newcastle upon Tyne"
+        },
+        "tuitionFee": 23732,
+        "programme": "B.A.",
+        "photo": {
+            "background": "https://www.ncl.ac.uk/media/wwwnclacuk/whoweare/images/hero-locations.jpg",
+            "logo": "https://1000logos.net/wp-content/uploads/2020/06/Newcastle-University-Logo.png"
+        }
+    },
+    {
+        "studyName": "Media and Communication - Advertising Major",
+        "category": "Journalism & Media",
+        "description": "This Media and Communication - Advertising Major BA degree from Swinburne Online gives you the opportunity to learn from industry leaders. You will understand how to design, create and deliver content and campaigns with impact and gain the practical skills you need to excel in a range of roles in the dynamic and ever-changing advertising industry.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Swinburne Online",
+        "location": {
+            "country": "United Kingdom",
+            "state": "London"
+        },
+        "tuitionFee": 14101,
+        "programme": "B.A.",
+        "photo": {
+            "background": "https://myglobaluni.com/public/storage/university/PsBKuqXNyiZpzIBpBDnRu1y9bIhAAxUSvmAVhD5w.jpg",
+            "logo": "https://i1.sndcdn.com/avatars-000233857870-hszdki-t240x240.jpg"
+        }
+    },
+    {
+        "studyName": "LLB (Hons) Law",
+        "category": "Law",
+        "description": "Arden's LLB, also known as Bachelor of Laws, allows you to customise your course content to either prepare for the Solicitors Qualifying Examination (SQE 1), or prepare for a Bar Practice Course if you wish to qualify as a barrister in the future.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Arden University Online",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Coventry"
+        },
+        "tuitionFee": 6215,
+        "programme": "B.Sc.",
+        "photo": {
+            "background": "https://edumpus.com/getpublic/storage/cover_photo/1639456805_1.jpg",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/15864/logos/1651665433_arden-core-square_for-white-background.jpg"
+        }
+    },
+    {
+        "studyName": "Level 5 DipHE Health and Care Management",
+        "category": "Medicine & Health",
+        "description": "The Level 5 DipHE Health and Care Management programme is offered by Arden University Online.",
+        "duration": 2,
+        "degree": "Bachelor",
+        "institute": "Arden University Online",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Coventry"
+        },
+        "tuitionFee": 6215,
+        "programme": "DipHE",
+        "photo": {
+            "background": "https://edumpus.com/getpublic/storage/cover_photo/1639456805_1.jpg",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/15864/logos/1651665433_arden-core-square_for-white-background.jpg"
+        }
+    },
+    {
+        "studyName": "Earth Science (Honours)",
+        "category": "Natural Sciences & Mathematics",
+        "description": "If you are interested in studying the processes that have shaped the structure and development of the Earth, this three-year Earth Science (Honours) degree from Newcastle University is for you.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Newcastle University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Newcastle upon Tyne"
+        },
+        "tuitionFee": 29834,
+        "programme": "B.Sc.",
+        "photo": {
+            "background": "https://www.ncl.ac.uk/media/wwwnclacuk/whoweare/images/hero-locations.jpg",
+            "logo": "https://1000logos.net/wp-content/uploads/2020/06/Newcastle-University-Logo.png"
+        }
+    },
+    {
+        "studyName": "Politics (Honours)",
+        "category": "Social Sciences",
+        "description": "This Politics (Honours) programme from Newcastle University helps you train your mind to recognise, analyse, understand and apply the theories, mechanisms and forces that drive political decision-making.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Newcastle University",
+        "location": {
+            "country": "United Kingdom",
+            "state": "Newcastle upon Tyne"
+        },
+        "tuitionFee": 23732,
+        "programme": "B.A.",
+        "photo": {
+            "background": "https://www.ncl.ac.uk/media/wwwnclacuk/whoweare/images/hero-locations.jpg",
+            "logo": "https://1000logos.net/wp-content/uploads/2020/06/Newcastle-University-Logo.png"
+        }
+    }
+]

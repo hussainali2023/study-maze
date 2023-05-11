@@ -1,0 +1,542 @@
+[
+    {
+        "studyName": "Engineering - Agri-food Engineering",
+        "category": "Agriculture & Forestry",
+        "description": "As an engineer of agri-food, you will get a holistic understanding of food systems. In the Engineering - Agri-food Engineering programme from SeAMK - Seinäjoki University of Applied Sciences, you can follow the production of food from “field to fork”.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "SeAMK - Seinäjoki University",
+        "location": {
+            "country": "Finland",
+            "state": "Seinäjoki"
+        },
+        "tuitionFee": 8000,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/690/covers/1665561842_seamk_cover-picture_3072x1024.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/690/images/1665561901_seamk-logo_512x412.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Soil and Crop Sciences, Applied Information Technology Concentration",
+        "category": "Agriculture & Forestry",
+        "description": "Students in this Soil and Crop Sciences, Applied Information Technology Concentration at Colorado State University utilize advanced information technology to drive decision-making in crop production, soil and environmental management, and in developing new technologies.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Colorado State University",
+        "location": {
+            "country": "United States",
+            "state": "Fort Collins , Colorado"
+        },
+        "tuitionFee": 29418,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/11257/covers/1536935270_CSU_InternationalRecruitment_Graduation-cover%20image1.png?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e5d4326e.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Nutrition and Dietetics",
+        "category": "Applied Sciences & Professions",
+        "description": "The employment opportunities of the students of Nutrition and Dietetics at South Dakota State University are in health promotion and wellness programs, public health agencies, foodservice and food production industries, schools, universities, the armed services, hospitals, nursing homes, and state, national and international organizations.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "South Dakota State University",
+        "location": {
+            "country": "United States",
+            "state": "Brookings, South Dakota"
+        },
+        "tuitionFee": 10137,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/11701/covers/1578523196_20180827_sdsu_034.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/sq-11701.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Social Sciences, Sustainable Urban Development",
+        "category": "Applied Sciences & Professions",
+        "description": "Cities are inspiring arenas for business, culture and everyday life. However, they face complex challenges related to the environment and wellbeing of individuals. The Social Sciences, Sustainable Urban Development programme from Tampere University is a multidisciplinary programme developing skills needed to address these challenges.",
+        "duration": 5,
+        "degree": "Bachelor",
+        "institute": "Tampere University",
+        "location": {
+            "country": "Finland",
+            "state": "Tampere"
+        },
+        "tuitionFee": 10000,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/19116/covers/1576761403_landing_header_2.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/19116/logos/sq-19116.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Media and Arts",
+        "category": "Arts, Design & Architecture",
+        "description": "The focus of the Media and Arts degree programme at Tampere University of Applied Sciences is to provide up-to-date competences in a continuously changing and growing international media and arts sector.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Tampere University of Applied Sciences",
+        "location": {
+            "country": "Finland",
+            "state": "Tampere"
+        },
+        "tuitionFee": 9800,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/19410/covers/1554174551_outside.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e7d28f1a.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Music Education",
+        "category": "Arts, Design & Architecture",
+        "description": "Music Education from University of the Virgin Islands provides an academic canvas whereby students learn to interact with music and the arts through a comprehensive study that leads to the acquisition of the Bachelor of Arts Degree in Music Education.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "University of the Virgin Islands",
+        "location": {
+            "country": "United States",
+            "state": "Charlotte Amalie , United States Virgin Islands"
+        },
+        "tuitionFee": 12485,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "//monet-prtl-co.imgix.net/Shared/StudyPage/CoverImageBasicDesktop.svg",
+            "logo": ""
+        }
+    },
+    {
+        "studyName": "Science in International Trade (BSIT)",
+        "category": "Business & Management",
+        "description": "The Bachelor of Science in International Trade (BSIT) program provides rigorous training for a career in global commerce. Students learn the functional disciplines of international business while gaining an in-depth understanding of the political, cultural and economic aspects of doing business on a global scale and in international markets.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Thunderbird School of Global Management (Bachelor)",
+        "location": {
+            "country": "United States",
+            "state": "Arizona"
+        },
+        "tuitionFee": 28759,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/20536/covers/1623288015_1.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/20536/logos/1622710666_japan-asu-tbird-cobrand.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Industrial Engineering and Management",
+        "category": "Business & Management",
+        "description": "The Bachelor's Programme in Industrial Engineering and Management from LUT University provides you essential knowledge and capabilities to become an expert in combining business and technology.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "LUT University",
+        "location": {
+            "country": "Finland",
+            "state": "Lappeenranta"
+        },
+        "tuitionFee": 9500,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/323557/covers/1635422305_lut-industrial-engineering.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e7753db2.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Software Engineering",
+        "category": "Computer Science & IT",
+        "description": "Are you aiming for a career in the international field of software engineering? The Software Engineering program offered by Tampere University of Applied Sciences provides you with working life skills and gives you the confidence to start your own career in the software industry.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Tampere University",
+        "location": {
+            "country": "Finland",
+            "state": "Tampere"
+        },
+        "tuitionFee": 9800,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/19410/covers/1554174551_outside.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e7d28f1a.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Network Administration",
+        "category": "Computer Science & IT",
+        "description": "The Network Administration bachelor's degree program from American National University can help you prepare to take on these challenges and compete for mid-level positions such as network engineers, network administrator managers or network analysts in the enterprise.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "American National University",
+        "location": {
+            "country": "United States",
+            "state": "Virginia"
+        },
+        "tuitionFee": 9800,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/229494/covers/1671798970_anu-cover-photo.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/18131/logos/sq-18131.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Social Services",
+        "category": "Education & Training",
+        "description": "Welcome to a career that will empower, engage, and promote wellbeing and creativity! Study Social Services at Laurea University of Applied Sciences in a supportive, multicultural English degree programme that will challenge and develop your personal and professional growth.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Laurea University",
+        "location": {
+            "country": "Finland",
+            "state": "Vantaa"
+        },
+        "tuitionFee": 8000,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/395/covers/1636448174_laurea-studyportals.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/395/logos/sq-395.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Bachelor's Degree in Sports and Leisure Management",
+        "category": "Education & Training",
+        "description": "The Sports and Leisure Management degree at Kajaani University of Applied Sciences is a unique degree in Finland. We offer you a versatile degree that develops your professional skillset and competences in coaching and leadership but also in instructing, health enhancing, sport tourism and exergaming, with a global outlook.",
+        "duration": 3,
+        "degree": "Bachelor",
+        "institute": "Kajaani University",
+        "location": {
+            "country": "Finland",
+            "state": "Kajaani"
+        },
+        "tuitionFee": "5,000",
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/897/covers/1574864266_kamk_future2.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e8ebf7ce.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Mechanical Engineering",
+        "category": "Engineering & Technology",
+        "description": "The mission of the Mechanical Engineering program at Mississippi State University is to educate students in fundamental engineering principles, thus enabling the understanding of existing and next generation technologies relevant to research and engineering practice.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Mississippi State University",
+        "location": {
+            "country": "United States",
+            "state": " Mississippi"
+        },
+        "tuitionFee": 22870,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/367921/covers/1680189163_msstatecover.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e6701a9f.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Textile and Material Engineering",
+        "category": "Engineering & Technology",
+        "description": "This Bachelor's degree in Textile and Material Engineering at Tampere University of Applied Sciences focuses on the different textile manufacturing processes, ecological and biobased textile fibers.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Tampere University",
+        "location": {
+            "country": "Finland",
+            "state": "Tampere"
+        },
+        "tuitionFee": 9870,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/19410/covers/1554174551_outside.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e7d28f1a.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Environmental Economics and Sustainability",
+        "category": "Environmental Studies & Earth Sciences",
+        "description": "When you think green, you should think money. Why? Because economic and environmental progress go together. The Environmental Economics and Sustainability program at Mississippi State University is designed for students who want to make a difference in the world now and in the future.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Mississippi State University",
+        "location": {
+            "country": "United States",
+            "state": " Mississippi"
+        },
+        "tuitionFee": 23109,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/367090/covers/1680188367_msstatecover.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e6701a9f.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Environmental and Natural Resource Economics",
+        "category": "Environmental Studies & Earth Sciences",
+        "description": "The Environmental and Natural Resource Economics program from Colorado State University prepares students to apply economic tools to evaluate the allocation and utilization of natural resources and the management of the natural environment.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Colorado State University",
+        "location": {
+            "country": "United States",
+            "state": "Colorado"
+        },
+        "tuitionFee": 29109,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/11257/covers/1536935270_CSU_InternationalRecruitment_Graduation-cover%20image1.png?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e5d4326e.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Hospitality, Tourism and Event Management",
+        "category": "Hospitality, Leisure & Sports",
+        "description": "The mission of the Hospitality, Tourism and Event Management program at South Dakota State University is to develop visionary leaders and successful professionals in the Hospitality, Tourism, and Event industry.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "South Dakota State University",
+        "location": {
+            "country": "United States",
+            "state": "South Dakota"
+        },
+        "tuitionFee": 10245,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/11701/covers/1578523196_20180827_sdsu_034.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/sq-11701.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Bachelor's Degree in Sports and Leisure Management",
+        "category": "Hospitality, Leisure & Sports",
+        "description": "The Sports and Leisure Management degree at Kajaani University of Applied Sciences is a unique degree in Finland. We offer you a versatile degree that develops your professional skillset and competences in coaching and leadership but also in instructing, health enhancing, sport tourism and exergaming, with a global outlook.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Kajaani University",
+        "location": {
+            "country": "Finland",
+            "state": "Kajaani"
+        },
+        "tuitionFee": 6000,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/897/covers/1574864266_kamk_future2.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e8ebf7ce.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Women's and Gender Studies",
+        "category": "Humanities",
+        "description": "Students of the Women's and Gender Studies program from University of Dayton understand the marginalization of women throughout history and across cultures, and celebrate their accomplishments.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "University of Dayton",
+        "location": {
+            "country": "United States",
+            "state": "Ohio"
+        },
+        "tuitionFee": 41870,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/14188/covers/1663881376_278192448_10158462759800778_1173588845822319881_n.png?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/14188/logos/sq-14188.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "International and Global Studies - Middle East Studies",
+        "category": "Humanities",
+        "description": "The International and Global Studies - Middle East Studies program from Portland State University offers students an interdisciplinary perspective on this critical world region from North Africa to Central Asia.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Portland State University",
+        "location": {
+            "country": "United States",
+            "state": "Oregon"
+        },
+        "tuitionFee": 41870,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/11509/covers/1597851759_wide-w-elevation.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e5f27f7c.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Communication and Media Studies",
+        "category": "Journalism & Media",
+        "description": "By enrolling in this Communication and Media Studies program from Pace University, you will explore professional communications and media industries that exist at the cross section of leadership, creativity, and social change, while learning to hone advanced skillsets in self-expression.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Pace University",
+        "location": {
+            "country": "United States",
+            "state": "New York"
+        },
+        "tuitionFee": 43650,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/12502/covers/1557773680_zeuqepjn.jpeg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/12502/images/1633025291_141990199_10157612613467341_2692219704885587937_n.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Media and Arts",
+        "category": "Journalism & Media",
+        "description": "The focus of the Media and Arts degree programme at Tampere University of Applied Sciences is to provide up-to-date competences in a continuously changing and growing international media and arts sector.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Tampere University",
+        "location": {
+            "country": "Finland",
+            "state": "Tampere"
+        },
+        "tuitionFee": 43650,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/19410/covers/1554174551_outside.jpg?w=1024&h=575&fit=crop&auto=format,compress&q=30",
+            "logo": "//storage-prtl-co.imgix.net/mp/5de0e7d28f1a.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Law",
+        "category": "Law",
+        "description": "If you are interested in how law impacts our daily lives and how disputes are settled in an increasingly globalized world, then studying Law at Tallinn University is for you! The programme focuses on European and International Law.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Tallinn University",
+        "location": {
+            "country": "Finland",
+            "state": "Helsinki"
+        },
+        "tuitionFee": 5040,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://monet-prtl-co.imgix.net/Shared/StudyPage/CoverImageBasicDesktop.svg",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e7711be7.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Government and Politics Criminal Justice",
+        "category": "Law",
+        "description": "The combined Government and Politics Criminal Justice from Fairleigh Dickinson University is open to political science majors admitted to the university.",
+        "duration": 4,
+        "degree": "Bachelor",
+        "institute": "Fairleigh Dickinson University",
+        "location": {
+            "country": "United States",
+            "state": "New Jersey"
+        },
+        "tuitionFee": 33450,
+        "programme": "Bachelor",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/332355/covers/1660817292_cover.png?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e731a8b4.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Nursing (RN to BSN)",
+        "category": "Medicine & Health",
+        "description": "The Bachelor of Science in Nursing (RN to BSN) degree from American National University is designed for registered nurses who already possess an associate’s degree and who wish to expand their knowledge of the nursing profession.",
+        "duration": 1,
+        "degree": "B.SC",
+        "institute": "American National University",
+        "location": {
+            "country": "United States",
+            "state": "Virginia"
+        },
+        "tuitionFee": 15698,
+        "programme": "B.SC",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/373218/covers/1672161291_anu-cover-photo.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/18131/logos/sq-18131.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Medical Assisting",
+        "category": "Medicine & Health",
+        "description": "The Nursing programme from Laurea University of Applied Sciences is practically oriented and contain lectures, workshops, and simulation exercises. As an expert in nursing, you will monitor the patient’s condition, administer medication, coordinate the overall treatment and provide guidance for patients and their family members.",
+        "duration": 1,
+        "degree": "BHC",
+        "institute": "Laurea University",
+        "location": {
+            "country": "United States",
+            "state": "Vantaa"
+        },
+        "tuitionFee": 4500,
+        "programme": "BHC",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/373093/covers/1671794374_anu-cover-photo.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/395/logos/sq-395.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Natural Sciences and Mathematics, Science and Engineering",
+        "category": "Natural Sciences & Mathematics",
+        "description": "The Natural Sciences and Mathematics, Science and Engineering programme from Tampere University offers all this! It is a cross-disciplinary degree programme that provides you with a solid grounding in several core fields of engineering and the ability to follow rapid technological developments and apply scientific methods.",
+        "duration": 5,
+        "degree": "BSc/MS",
+        "institute": "Tampere University",
+        "location": {
+            "country": "Finland",
+            "state": "Tampere"
+        },
+        "tuitionFee": 10000,
+        "programme": "BSc/MS",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/19116/covers/1576761403_landing_header_2.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/19116/logos/sq-19116.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Pharmacy Technician",
+        "category": "Natural Sciences & Mathematics",
+        "description": "The Pharmacy Technician degree at American National University is designed to provide you with knowledge, laboratory skills, and field experience so that you can assist pharmacists in providing medication and other healthcare products to patients.",
+        "duration": 3,
+        "degree": "Associate Degree",
+        "institute": "American National University",
+        "location": {
+            "country": "United States",
+            "state": "Virginia"
+        },
+        "tuitionFee": 33450,
+        "programme": "Associate Degree",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/373101/covers/1671796329_anu-cover-photo.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/18131/logos/sq-18131.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "Geosciences",
+        "category": "Social Sciences",
+        "description": "The Geosciences program at Mississippi State University strives for an integrated, interdisciplinary study of the whole Earth.",
+        "duration": 4,
+        "degree": "B.Sc",
+        "institute": "Mississippi State University",
+        "location": {
+            "country": "United States",
+            "state": "Mississippi"
+        },
+        "tuitionFee": 23109,
+        "programme": "B.Sc",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/studies/365191/covers/1680188977_msstatecover.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/mp/5de0e6701a9f.png?w=64&auto=format,compress&q=40"
+        }
+    },
+    {
+        "studyName": "International Business",
+        "category": "Social Sciences",
+        "description": "SeAMK - Seinäjoki University of Applied Sciences offers a Bachelor Degree in International Business.",
+        "duration": 3,
+        "degree": "B.B.A",
+        "institute": "SeAMK - Seinäjoki University",
+        "location": {
+            "country": "Finland",
+            "state": "Seinäjoki "
+        },
+        "tuitionFee": 8000,
+        "programme": "B.B.A",
+        "photo": {
+            "background": "https://storage-prtl-co.imgix.net/endor/organisations/690/covers/1665561842_seamk_cover-picture_3072x1024.jpg?w=1440&h=575&fit=crop&auto=format,compress&q=40",
+            "logo": "https://storage-prtl-co.imgix.net/endor/organisations/690/images/1665561901_seamk-logo_512x412.png?w=64&auto=format,compress&q=40"
+        }
+    }
+]
