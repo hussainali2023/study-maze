@@ -66,7 +66,7 @@ const Login = () => {
                         <div className='divider h-[1px] mb-6 text-center bg-gray-400'>
                             <span className='bg-white relative -top-[0.7em] px-4'>OR</span>
                         </div>
-                        <button onClick={handleGoogleSignIn} className='border rounded py-2 -mt-3 text-center relative font-medium hover:bg-slate-50 transition-colors'><span className='absolute left-2 top-1/2 -translate-y-[50%] text-2xl'><FcGoogle/></span><span>Log In with Google</span></button>
+                        <button type='button' onClick={handleGoogleSignIn} className='border rounded py-2 -mt-3 text-center relative font-medium hover:bg-slate-50 transition-colors'><span className='absolute left-2 top-1/2 -translate-y-[50%] text-2xl'><FcGoogle/></span><span>Log In with Google</span></button>
                         <button>Forgot Password?</button>
                         <p className='text-center'>
                             New user? <Link href="/register">Create an account</Link>

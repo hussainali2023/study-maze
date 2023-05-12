@@ -60,7 +60,7 @@ const Register = () => {
                 <div className='p-5'>
                     <h1 className='text-center text-gray-700 font-bold text-xl'>Sign up with</h1>
                     <div className='flex lg:w-1/2 mx-auto justify-center my-5'>
-                        <button onClick={handleGoogleSignIn} className='flex items-center font-semibold border focus:border-secondary px-10 focus: py-1 rounded-sm text-gray-700 shadow-sm hover:bg-blue-200 hover:shadow-xl hover:translate-x-100 hover:delay-200 hover:duration-300'>
+                        <button type='button' onClick={handleGoogleSignIn} className='flex items-center font-semibold border focus:border-secondary px-10 focus: py-1 rounded-sm text-gray-700 shadow-sm hover:bg-blue-200 hover:shadow-xl hover:translate-x-100 hover:delay-200 hover:duration-300'>
                             <Image width={35} alt='' src={google}>
                             </Image>
                             Google
