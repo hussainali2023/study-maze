@@ -22,7 +22,7 @@ const ProgrammeCard = () => {
                     </div>
                     <div className='p-5 bg-white rounded-b-md'>
                         <div className='flex items-start justify-between gap-3 mb-5'>
-                            <Link href="#" className='text-lg text-[#05293C] font-semibold'>{c?.studyName}</Link>
+                            <Link href={`/studies/${c?._id}`} className='text-lg text-[#05293C] font-semibold'>{c?.studyName}</Link>
                             <button className='text-[#05293C] hover:text-primary'><FiHeart className='text-2xl' /></button>
                         </div>
                         <div className='flex items-start gap-3'>
@@ -34,11 +34,8 @@ const ProgrammeCard = () => {
                         </div>
                     </div>
                 </div>)
-
             }
         </>
-
-
     );
 };
 

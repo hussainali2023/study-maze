@@ -17,7 +17,7 @@ const Categories = () => {
         }
         fetchData();
     }, []);
-    
+
     return (
         <section className="">
             <div className="text-2xl flex-none md:flex py-10 md:py-16">
@@ -44,8 +44,8 @@ const Categories = () => {
                         <div className="min-h-screen grid gap-5 p-5">
                             {courses
                                 ?.filter((course: any) => {
-                                    return category === ""
-                                        ? []
+                                    return location
+                                        ? course?.category.includes(category) && course?.location.country.includes(location)
                                         : course?.category.includes(category);
                                 })
                                 .map((course: any) => (
